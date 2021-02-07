@@ -1,3 +1,3 @@
 # Face-Recognition-Application
-C# ile geliştirdiğim yüz tanıma uygulaması
+C# Windows Form Application
 Application for Face detection and recognition 
